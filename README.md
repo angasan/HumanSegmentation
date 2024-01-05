@@ -1,2 +1,4 @@
 # HumanSegmentation
-🏗️🚧 Under development 🚧🏗️ - Human segmentation using "segmentation-models-pytorch"
+🏗️🚧 Under development 🚧🏗️ 
+
+Human segmentation using "segmentation-models-pytorch".
